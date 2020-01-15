@@ -1,5 +1,5 @@
-FROM registry.redhat.io/ubi8/ubi:latest
 #FROM image-registry.openshift-image-registry.svc:5000/openshift/ubi8:latest
+FROM registry.access.redhat.com/ubi8/ubi:latest
 
 #This is provided as-is with no support from Red Hat.
 MAINTAINER "Muhammad Aizuddin Zali" <mzali@redhat.com>
